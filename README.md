@@ -11,10 +11,11 @@ This is a simple iOS app demo that demonstrates biometric authentication using F
 - Secure and fast access to the app.
 
 ## Screenshots
+FACE ID
+![auth_app_iphoneSE](https://github.com/andyrosty/AuthenticatorApp-Demo/assets/16139474/548f4d9f-b76b-4d7f-ad78-db227462e837)
+TOUCH ID
+![auth_app_iphone15](https://github.com/andyrosty/AuthenticatorApp-Demo/assets/16139474/e097fba1-d2d0-4791-978d-e50778cb5303)
 
-![auth_app_iphone15](https://github.com/andyrosty/AuthenticatorApp-Demo/assets/16139474/c49af864-5141-4f5e-adf4-858ff000e994)
-
-![auth_app_iphoneSE](https://github.com/andyrosty/AuthenticatorApp-Demo/assets/16139474/93771071-ef01-4056-a131-ecd7bc97f204)
 
 
 
