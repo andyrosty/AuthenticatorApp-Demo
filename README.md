@@ -3,7 +3,6 @@
 ## Introduction
 This is a simple iOS app demo that demonstrates biometric authentication using Face ID or Fingerprint on an iPhone. Biometric authentication is a secure and convenient way for users to access their apps and data.
 
-![App Icon](screenshots/app_icon.png)
 
 ## Features
 - Biometric authentication using Face ID or Fingerprint.
