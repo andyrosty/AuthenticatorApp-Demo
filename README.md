@@ -12,9 +12,10 @@ This is a simple iOS app demo that demonstrates biometric authentication using F
 
 ## Screenshots
 
-### Main Screen
-![Face ID] https://github.com/andyrosty/screenshots/blob/main/auth_app_iphone15.png?raw=true
-![Touch ID] https://github.com/andyrosty/screenshots/blob/main/auth_app_iphoneSE.png?raw=true
+![auth_app_iphone15](https://github.com/andyrosty/AuthenticatorApp-Demo/assets/16139474/c49af864-5141-4f5e-adf4-858ff000e994)
+
+![auth_app_iphoneSE](https://github.com/andyrosty/AuthenticatorApp-Demo/assets/16139474/93771071-ef01-4056-a131-ecd7bc97f204)
+
 
 
 ## Dependencies
