@@ -13,19 +13,8 @@ This is a simple iOS app demo that demonstrates biometric authentication using F
 ## Screenshots
 
 ### Main Screen
-![Main Screen] auth_app_iphoneSE.png
-
-### Biometric Authentication
-![Biometric Authentication](screenshots/biometric_auth.png)
-
-## Installation
-To run this app on your iPhone, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Open the project in Xcode.
-3. Connect your iPhone to your computer.
-4. Set your development team in Xcode's project settings.
-5. Build and run the app on your iPhone.
+![Face ID] https://github.com/andyrosty/screenshots/blob/main/auth_app_iphone15.png?raw=true
+![Touch ID] https://github.com/andyrosty/screenshots/blob/main/auth_app_iphoneSE.png?raw=true
 
 
 ## Dependencies
@@ -37,9 +26,6 @@ This app uses the following dependencies:
 ## Contributing
 Contributions are welcome!
 
-
-## Acknowledgments
-- Thanks to [Apple](https://developer.apple.com/documentation/localauthentication) for providing the LocalAuthentication framework.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me:
