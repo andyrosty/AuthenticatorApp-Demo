@@ -13,7 +13,7 @@ This is a simple iOS app demo that demonstrates biometric authentication using F
 ## Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/main_screen.png)
+![Main Screen] auth_app_iphoneSE.png
 
 ### Biometric Authentication
 ![Biometric Authentication](screenshots/biometric_auth.png)
